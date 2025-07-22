@@ -1,0 +1,51 @@
+policy_id,customer_id,policy_type,policy_name,premium_amount,start_date,end_date,coverage_amount,provider,status
+701,1,Life,"Life Secure Plan",1500.00,2023-01-15,2043-01-14,1000000.00,LIC,Active
+702,2,Health,"Health Plus Family",1200.00,2022-06-01,2025-05-31,500000.00,"HDFC ERGO",Active
+703,3,Vehicle,"Car Protect Basic",800.00,2024-02-10,2025-02-09,300000.00,"ICICI Lombard",Active
+704,4,Travel,"Travel Safe Europe",500.00,2024-05-01,2024-08-31,200000.00,"TATA AIG",Active
+705,5,Life,"Term Life Shield",1400.00,2021-03-05,2041-03-04,800000.00,"Max Life",Active
+706,6,Health,"Health Super Care",1300.00,2020-07-20,2023-07-19,400000.00,"Star Health",Expired
+707,7,Vehicle,"Bike Protect",600.00,2023-09-15,2024-09-14,100000.00,"Bajaj Allianz",Active
+708,8,Travel,"Asia Travel Secure",400.00,2024-04-05,2024-06-30,150000.00,"SBI General",Active
+709,9,Life,"Life Income Plan",1800.00,2019-01-01,2039-12-31,1200000.00,"HDFC Life",Active
+710,10,Health,"Health Gold",2000.00,2021-09-10,2024-09-09,700000.00,"ICICI Prudential",Active
+711,11,Vehicle,"Car Protect Premium",1200.00,2022-10-20,2023-10-19,500000.00,"Reliance General",Expired
+712,12,Travel,"Schengen Travel",450.00,2024-07-01,2024-07-31,100000.00,"Future Generali",Active
+713,13,Life,"Term Assure",1700.00,2020-05-15,2040-05-14,900000.00,"Kotak Life",Active
+714,14,Health,"Family Health Guard",1600.00,2023-02-01,2026-01-31,600000.00,"Bajaj Allianz",Active
+715,15,Vehicle,"Two Wheeler Secure",550.00,2023-11-05,2024-11-04,75000.00,"HDFC ERGO",Active
+716,16,Travel,"Student Travel USA",700.00,2024-08-01,2025-07-31,250000.00,"TATA AIG",Active
+717,17,Life,"Whole Life Plan",1900.00,2018-04-01,2038-03-31,1500000.00,LIC,Active
+718,18,Health,"Individual Health",1100.00,2022-11-15,2023-11-14,350000.00,"Star Health",Expired
+719,19,Vehicle,"Commercial Vehicle",1800.00,2021-06-10,2022-06-09,800000.00,"ICICI Lombard",Expired
+720,20,Travel,"Family Travel Asia",650.00,2024-05-10,2024-06-30,180000.00,"SBI General",Active
+721,21,Life,"Smart Term Plan",1600.00,2020-10-01,2040-09-30,1100000.00,"Max Life",Active
+722,22,Health,"Senior Citizen Health",2200.00,2023-01-01,2026-12-31,400000.00,"HDFC ERGO",Active
+723,23,Vehicle,"Four Wheeler Secure",950.00,2022-12-01,2023-11-30,450000.00,"Reliance General",Expired
+724,24,Travel,"Europe Family Trip",550.00,2024-06-01,2024-07-31,200000.00,"Future Generali",Active
+725,25,Life,"Assured Lifetime",2000.00,2019-02-05,2039-02-04,1000000.00,"HDFC Life",Active
+726,26,Health,"Medi Secure Plan",1350.00,2021-08-01,2024-07-31,450000.00,"Star Health",Active
+727,27,Vehicle,"Premium Bike Cover",700.00,2024-01-10,2025-01-09,90000.00,"ICICI Lombard",Active
+728,28,Travel,"Business Travel US",800.00,2024-09-01,2024-09-30,300000.00,"TATA AIG",Active
+729,29,Life,"Life Benefit Plus",1500.00,2022-03-15,2042-03-14,950000.00,LIC,Active
+730,30,Health,"Critical Illness Plan",2500.00,2021-01-01,2024-12-31,800000.00,"HDFC ERGO",Active
+731,31,Vehicle,"Taxi Insurance",1600.00,2022-07-01,2023-06-30,600000.00,"Reliance General",Expired
+732,32,Travel,"Annual Multi Trip",1200.00,2024-03-01,2025-02-28,350000.00,"Future Generali",Active
+733,33,Life,"Child Life Plan",1700.00,2020-05-10,2040-05-09,500000.00,"Kotak Life",Active
+734,34,Health,"Health Infinity",1400.00,2023-05-01,2026-04-30,550000.00,"ICICI Prudential",Active
+735,35,Vehicle,"Fleet Insurance",2500.00,2021-03-01,2022-02-28,1000000.00,"ICICI Lombard",Expired
+736,36,Travel,"Student Europe Travel",900.00,2024-10-01,2025-03-31,250000.00,"SBI General",Active
+737,37,Life,"Life Secure Plus",1800.00,2022-07-15,2042-07-14,1200000.00,LIC,Active
+738,38,Health,"Medi Protect Gold",1600.00,2020-11-10,2023-11-09,600000.00,"Star Health",Expired
+739,39,Vehicle,"Luxury Car Insurance",2000.00,2023-04-01,2024-03-31,900000.00,"HDFC ERGO",Active
+740,40,Travel,"Backpacker Travel",500.00,2024-06-01,2024-08-31,120000.00,"TATA AIG",Active
+741,41,Life,"Smart Wealth",2100.00,2021-09-01,2041-08-31,1300000.00,"Max Life",Active
+742,42,Health,"Health Platinum",2300.00,2022-05-01,2025-04-30,750000.00,"HDFC ERGO",Active
+743,43,Vehicle,"Commercial Truck",3000.00,2022-02-01,2023-01-31,1200000.00,"ICICI Lombard",Expired
+744,44,Travel,"Adventure Travel",750.00,2024-04-01,2024-05-31,180000.00,"Future Generali",Active
+745,45,Life,"Life Care Plus",1600.00,2020-01-01,2040-12-31,1000000.00,"Kotak Life",Active
+746,46,Health,"Family Health Secure",1400.00,2023-01-01,2026-12-31,650000.00,"Bajaj Allianz",Active
+747,47,Vehicle,"Personal Car Insurance",1000.00,2022-06-01,2023-05-31,400000.00,"HDFC ERGO",Expired
+748,48,Travel,"Corporate Travel",1000.00,2024-03-01,2024-04-30,250000.00,"SBI General",Active
+749,49,Life,"Life Assure",1800.00,2021-07-01,2041-06-30,1200000.00,"Max Life",Active
+750,50,Health,"Health Secure Classic",1250.00,2022-09-01,2025-08-31,500000.00,"ICICI Prudential",Active
