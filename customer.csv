@@ -1,0 +1,59 @@
+customer_id,name,salutation,age,phone,email,income,class,vehicle_type,occupation,employment_type,education_level,marital_status,branch_id,city,state,address,account_open_date,is_active
+1,"Rajesh Patil",Mr.,35,9876543210,rajesh.patil@gmail.com,450000.00,"Class A",4-wheeler,"Software Engineer",Salaried,Graduate,Married,1,Pune,Maharashtra,"12 Shivaji Nagar, Pune",2020-05-15,1
+2,"Priya Deshmukh",Ms.,28,8765432109,priya.d@gmail.com,350000.00,"Class B",2-wheeler,Teacher,Salaried,Postgraduate,Single,12,Nashik,Maharashtra,"45 College Road, Nashik",2021-02-20,1
+3,"Amit Chavan",Mr.,42,7654321098,amit.c@yahoo.com,600000.00,"Class A",4-wheeler,"Business Owner",Self-Employed,Graduate,Married,31,Aurangabad,Maharashtra,"78 Station Road, Aurangabad",2019-07-10,1
+4,"Sunita Gaikwad",Mrs.,38,6543210987,sunitag@hotmail.com,280000.00,"Class B",2-wheeler,Accountant,Salaried,Graduate,Married,24,Jalgaon,Maharashtra,"23 Gandhi Chowk, Jalgaon",2022-01-05,1
+5,"Vikas Pawar",Mr.,45,9432109876,vikasp@gmail.com,520000.00,"Class A",4-wheeler,Doctor,Self-Employed,Postgraduate,Divorced,25,Chalisgaon,Maharashtra,"34 Hospital Road, Chalisgaon",2018-11-30,1
+6,"Neha Kulkarni",Ms.,31,8321098765,neha.k@outlook.com,380000.00,"Class B",2-wheeler,"Marketing Executive",Salaried,Postgraduate,Single,16,Amalner,Maharashtra,"56 Market Yard, Amalner",2021-09-12,1
+7,"Sanjay Jadhav",Mr.,50,7210987654,sanjayj@gmail.com,750000.00,"Class A",4-wheeler,CA,Self-Employed,Postgraduate,Married,17,Yawal,Maharashtra,"89 Main Road, Yawal",2017-04-22,1
+8,"Anjali More",Mrs.,36,6109876543,anjali.m@yahoo.com,420000.00,"Class B",2-wheeler,"Bank Manager",Salaried,Postgraduate,Married,28,Bhusawal,Maharashtra,"12 Railway Colony, Bhusawal",2020-08-17,1
+9,"Rahul Shinde",Mr.,29,5098765432,rahul.s@gmail.com,320000.00,"Class B",2-wheeler,Engineer,Salaried,Graduate,Single,19,Dharangaon,Maharashtra,"45 Industrial Area, Dharangaon",2022-03-08,1
+10,"Pooja Borse",Ms.,27,4987654321,pooja.b@hotmail.com,290000.00,"Class B",None,"Graphic Designer",Salaried,Diploma,Single,10,Pachora,Maharashtra,"67 Art Gallery Road, Pachora",2021-11-25,1
+11,"Mahesh Patil",Mr.,48,3876543210,mahesh.p@gmail.com,680000.00,"Class A",4-wheeler,Professor,Salaried,Doctorate,Married,11,Parol,Maharashtra,"34 College Campus, Parol",2019-06-14,1
+12,"Swati Desai",Mrs.,39,2765432109,swati.d@yahoo.com,410000.00,"Class B",2-wheeler,Pharmacist,Self-Employed,Graduate,Married,12,Bodhwad,Maharashtra,"78 Medical Street, Bodhwad",2020-04-03,1
+13,"Nitin Kale",Mr.,33,1654321098,nitin.k@gmail.com,370000.00,"Class B",2-wheeler,"IT Professional",Salaried,Graduate,Single,32,Savada,Maharashtra,"23 Tech Park, Savada",2021-07-19,1
+14,"Snehal Giri",Ms.,26,9543210987,snehal.g@outlook.com,250000.00,"Class C",None,"Fashion Designer",Self-Employed,Diploma,Single,14,Jamner,Maharashtra,"56 Fashion Street, Jamner",2022-05-30,1
+15,"Vijay Mohite",Mr.,52,8432109876,vijay.m@gmail.com,800000.00,"Class A",4-wheeler,Businessman,Self-Employed,"High School",Married,15,Kalyan,Maharashtra,"89 Trade Center, Kalyan",2018-02-11,1
+16,"Anita Thorat",Mrs.,44,7321098765,anita.t@yahoo.com,480000.00,"Class B",2-wheeler,"School Principal",Salaried,Postgraduate,Married,16,Thane,Maharashtra,"12 Education Nagar, Thane",2019-09-27,1
+17,"Suresh Wagh",Mr.,47,6210987654,suresh.w@gmail.com,550000.00,"Class A",4-wheeler,Architect,Self-Employed,Postgraduate,Divorced,17,Ulhasnagar,Maharashtra,"45 Design Avenue, Ulhasnagar",2020-12-08,1
+18,"Kavita Salunke",Mrs.,41,5109876543,kavita.s@hotmail.com,390000.00,"Class B",2-wheeler,"HR Manager",Salaried,Postgraduate,Married,18,Dhule,Maharashtra,"67 Corporate Road, Dhule",2021-04-15,1
+19,"Ramesh Bhoir",Mr.,30,4098765432,ramesh.b@gmail.com,310000.00,"Class B",2-wheeler,"Sales Executive",Salaried,Graduate,Single,19,Panvel,Maharashtra,"23 Sales Street, Panvel",2022-02-22,1
+20,"Deepa Narkhede",Ms.,32,3987654321,deepa.n@outlook.com,360000.00,"Class B",None,"Interior Designer",Self-Employed,Diploma,Single,20,Pune,Maharashtra,"78 Creative Lane, Pune",2020-10-31,1
+21,"Arun Gavande",Mr.,53,2876543210,arun.g@gmail.com,720000.00,"Class A",4-wheeler,Dentist,Self-Employed,Postgraduate,Married,1,Nashik,Maharashtra,"34 Dental Care, Nashik",2019-03-18,1
+22,"Meera Kolhe",Mrs.,37,1765432109,meera.k@yahoo.com,430000.00,"Class B",2-wheeler,Lawyer,Self-Employed,Postgraduate,Married,2,Aurangabad,Maharashtra,"56 Court Road, Aurangabad",2021-01-07,1
+23,"Prakash Dhotre",Mr.,49,0654321098,prakash.d@gmail.com,650000.00,"Class A",4-wheeler,"Hotel Owner",Self-Employed,Graduate,Married,3,Jalgaon,Maharashtra,"89 Hospitality Street, Jalgaon",2018-07-24,1
+24,"Shraddha Patil",Ms.,25,9543210987,shraddha.p@hotmail.com,240000.00,"Class C",None,"Content Writer",Salaried,Graduate,Single,4,Chalisgaon,Maharashtra,"12 Writers Colony, Chalisgaon",2022-06-09,1
+25,"Vishal Tambe",Mr.,34,8432109876,vishal.t@gmail.com,380000.00,"Class B",2-wheeler,"Financial Analyst",Salaried,Postgraduate,Single,5,Amalner,Maharashtra,"45 Finance Street, Amalner",2020-11-12,1
+26,"Anjali Gavit",Mrs.,40,7321098765,anjali.g@yahoo.com,470000.00,"Class B",2-wheeler,"Government Officer",Salaried,Postgraduate,Married,6,Yawal,Maharashtra,"67 Govt Colony, Yawal",2019-08-05,1
+27,"Sandeep Mali",Mr.,46,6210987654,sandeep.m@gmail.com,580000.00,"Class A",4-wheeler,"Construction Contractor",Self-Employed,"High School",Married,7,Bhusawal,Maharashtra,"23 Builders Road, Bhusawal",2020-03-28,1
+28,"Poonam Rathod",Ms.,29,5109876543,poonam.r@outlook.com,330000.00,"Class B",None,"Event Manager",Self-Employed,Graduate,Single,8,Dharangaon,Maharashtra,"78 Event Street, Dharangaon",2021-12-17,1
+29,"Rajendra Sonawane",Mr.,51,4098765432,rajendra.s@gmail.com,700000.00,"Class A",4-wheeler,Agriculturist,Self-Employed,"High School",Married,9,Pachora,Maharashtra,"34 Farm Road, Pachora",2018-09-21,1
+30,"Smita Patil",Mrs.,36,3987654321,smita.p@yahoo.com,440000.00,"Class B",2-wheeler,Dermatologist,Self-Employed,Postgraduate,Married,10,Parol,Maharashtra,"56 Skin Care, Parol",2020-07-14,1
+31,"Dinesh Wankhede",Mr.,43,2876543210,dinesh.w@gmail.com,510000.00,"Class A",4-wheeler,"Chartered Accountant",Self-Employed,Postgraduate,Married,11,Bodhwad,Maharashtra,"89 CA Road, Bodhwad",2019-04-26,1
+32,"Kiran Shirsat",Ms.,27,1765432109,kiran.s@hotmail.com,270000.00,"Class B",None,Journalist,Salaried,Graduate,Single,12,Savada,Maharashtra,"12 Media Street, Savada",2022-01-19,1
+33,"Nilesh Patil",Mr.,38,0654321098,nilesh.p@gmail.com,460000.00,"Class B",2-wheeler,"Insurance Agent",Self-Employed,Graduate,Married,13,Jamner,Maharashtra,"45 Insurance Nagar, Jamner",2020-10-03,1
+34,"Rina More",Mrs.,45,9543210987,rina.m@yahoo.com,530000.00,"Class A",4-wheeler,"Jewellery Designer",Self-Employed,Diploma,Married,14,Kalyan,Maharashtra,"67 Jewellery Street, Kalyan",2019-05-30,1
+35,"Vivek Chavan",Mr.,31,8432109876,vivek.c@gmail.com,350000.00,"Class B",2-wheeler,"Software Developer",Salaried,Graduate,Single,15,Thane,Maharashtra,"23 IT Park, Thane",2021-08-11,1
+36,"Shilpa Pawar",Ms.,26,7321098765,shilpa.p@outlook.com,260000.00,"Class C",None,Nutritionist,Self-Employed,Postgraduate,Single,16,Ulhasnagar,Maharashtra,"78 Health Street, Ulhasnagar",2022-04-05,1
+37,"Manoj Dabhade",Mr.,54,6210987654,manoj.d@gmail.com,780000.00,"Class A",4-wheeler,"Real Estate Developer",Self-Employed,"High School",Married,17,Dhule,Maharashtra,"34 Property Road, Dhule",2018-12-16,1
+38,"Anuradha Patil",Mrs.,39,5109876543,anuradha.p@yahoo.com,420000.00,"Class B",2-wheeler,Professor,Salaried,Postgraduate,Married,18,Panvel,Maharashtra,"56 University Road, Panvel",2020-09-22,1
+39,"Sachin Ghorpade",Mr.,32,4098765432,sachin.g@gmail.com,370000.00,"Class B",2-wheeler,"Marketing Manager",Salaried,Postgraduate,Single,19,Pune,Maharashtra,"89 Ad Street, Pune",2021-05-14,1
+40,"Pallavi Deshpande",Ms.,28,3987654321,pallavi.d@hotmail.com,290000.00,"Class B",None,"Fashion Stylist",Self-Employed,Diploma,Single,20,Nashik,Maharashtra,"12 Style Avenue, Nashik",2022-03-01,1
+41,"Avinash Khandare",Mr.,47,2876543210,avinash.k@gmail.com,620000.00,"Class A",4-wheeler,"Restaurant Owner",Self-Employed,"High School",Married,31,Aurangabad,Maharashtra,"45 Food Street, Aurangabad",2019-10-08,1
+42,"Swati Jadhav",Mrs.,41,1765432109,swati.j@yahoo.com,490000.00,"Class B",2-wheeler,"Bank Officer",Salaried,Postgraduate,Married,32,Jalgaon,Maharashtra,"67 Banking Road, Jalgaon",2020-06-19,1
+43,"Rahul Patil",Mr.,33,0654321098,rahul.p@gmail.com,390000.00,"Class B",2-wheeler,Pharmacist,Self-Employed,Graduate,Single,33,Chalisgaon,Maharashtra,"23 Medical Street, Chalisgaon",2021-09-27,1
+44,"Priyanka More",Ms.,25,9543210987,priyanka.m@outlook.com,250000.00,"Class C",None,"Interior Designer",Self-Employed,Diploma,Single,34,Amalner,Maharashtra,"78 Design Studio, Amalner",2022-07-15,1
+45,"Dilip Shinde",Mr.,52,8432109876,dilip.s@gmail.com,710000.00,"Class A",4-wheeler,Industrialist,Self-Employed,Graduate,Married,35,Yawal,Maharashtra,"34 Factory Road, Yawal",2018-11-23,1
+46,"Kavita Patil",Mrs.,44,7321098765,kavita.p@yahoo.com,540000.00,"Class A",4-wheeler,Dentist,Self-Employed,Postgraduate,Married,36,Bhusawal,Maharashtra,"56 Dental Care, Bhusawal",2019-12-30,1
+47,"Nitin Deshmukh",Mr.,35,6210987654,nitin.d@gmail.com,410000.00,"Class B",2-wheeler,"IT Consultant",Self-Employed,Postgraduate,Single,37,Dharangaon,Maharashtra,"89 Tech Street, Dharangaon",2020-08-07,1
+48,"Anita Patil",Mrs.,40,5109876543,anita.p@yahoo.com,480000.00,"Class B",2-wheeler,"School Teacher",Salaried,Postgraduate,Married,8,Pachora,Maharashtra,"12 School Road, Pachora",2021-03-18,1
+49,"Vikas Chavan",Mr.,48,4098765432,vikas.c@gmail.com,670000.00,"Class A",4-wheeler,"Hotel Manager",Salaried,Graduate,Married,9,Parol,Maharashtra,"45 Hospitality Street, Parol",2019-07-11,1
+50,"Sneha Gavit",Ms.,29,3987654321,sneha.g@hotmail.com,320000.00,"Class B",None,"Fashion Designer",Self-Employed,Diploma,Single,10,Bodhwad,Maharashtra,"78 Design Avenue, Bodhwad",2022-02-24,1
+51,"Rajendra Patil",Mr.,55,2876543210,rajendra.p@gmail.com,830000.00,"Class A",4-wheeler,"Business Tycoon",Self-Employed,"High School",Married,11,Savada,Maharashtra,"23 Business Park, Savada",2018-04-17,1
+52,"Meena Kolhe",Mrs.,42,1765432109,meena.k@yahoo.com,520000.00,"Class A",4-wheeler,Doctor,Self-Employed,Postgraduate,Married,12,Jamner,Maharashtra,"56 Clinic Road, Jamner",2020-01-29,1
+53,"Sandeep Patil",Mr.,36,0654321098,sandeep.p@gmail.com,430000.00,"Class B",2-wheeler,"Marketing Executive",Salaried,Graduate,Single,13,Kalyan,Maharashtra,"89 Ad Agency, Kalyan",2021-06-12,1
+54,"Pooja Desai",Ms.,27,9543210987,pooja.d@outlook.com,280000.00,"Class B",None,"Content Creator",Self-Employed,Graduate,Single,14,Thane,Maharashtra,"12 Creative Lane, Thane",2022-05-08,1
+55,"Amar Jadhav",Mr.,50,8432109876,amar.j@gmail.com,760000.00,"Class A",4-wheeler,"Construction Business",Self-Employed,"High School",Married,15,Ulhasnagar,Maharashtra,"34 Builders Street, Ulhasnagar",2019-02-25,1
+56,"Shubhangi Patil",Mrs.,38,7321098765,shubhangi.p@yahoo.com,450000.00,"Class B",2-wheeler,"Bank Manager",Salaried,Postgraduate,Married,16,Dhule,Maharashtra,"67 Financial Street, Dhule",2020-11-14,1
+57,"Nikhil Wagh",Mr.,31,6210987654,nikhil.w@gmail.com,360000.00,"Class B",2-wheeler,"Software Engineer",Salaried,Graduate,Single,17,Panvel,Maharashtra,"23 Tech Park, Panvel",2021-08-03,1
+59,"Rucha Patil",Ms.,26,5109876543,rucha.p@hotmail.com,270000.00,"Class B",None,"Event Planner",Self-Employed,Diploma,Single,18,Pune,Maharashtra,"78 Celebration Street, Pune",2022-04-21,1

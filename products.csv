@@ -1,0 +1,51 @@
+product_id,product_code,product_name,product_type,interest_rate,min_balance,max_limit,is_active
+116669,SAV102,"Premium Savings Account",Savings,3.75,5000.00,1000000.00,1
+116670,SAV104,"Joint Savings Account",Savings,3.50,2000.00,750000.00,1
+117701,SAV107,"Salary Plus Account",Savings,3.40,0.00,600000.00,1
+117702,SAV109,"Student Zero Balance",Savings,3.20,0.00,150000.00,1
+117703,SAV110,"Family Savings Pack",Savings,3.60,3000.00,1000000.00,1
+127728,SAV106,"Zero Balance Savings",Savings,3.00,0.00,250000.00,1
+446522,SAV105,"Senior Citizen Savings",Savings,4.10,1000.00,700000.00,1
+502338,FD101,"Regular FD 1 Year",FD,5.60,5000.00,1000000.00,1
+529322,SAV101,"Basic Savings Account",Savings,3.25,1000.00,500000.00,1
+529323,SAV103,"Kids Savings Account",Savings,3.00,500.00,100000.00,1
+539316,SAV108,"Women Advantage Savings",Savings,3.80,1500.00,800000.00,1
+555401,INV101,"Mutual Fund Equity",Investment,0.00,1000.00,1000000.00,1
+555402,INV102,"Mutual Fund Debt",Investment,0.00,1000.00,500000.00,1
+555403,INV103,"Mutual Fund Hybrid",Investment,0.00,1000.00,750000.00,1
+555404,INV104,"Recurring Deposit",Investment,5.50,500.00,200000.00,1
+555405,INV105,"Public Provident Fund",Investment,7.10,500.00,1500000.00,1
+555406,INV106,"National Savings Certificate",Investment,6.80,1000.00,1000000.00,1
+555407,INV107,"Sukanya Samriddhi Yojana",Investment,7.60,250.00,1500000.00,1
+555408,INV108,"Senior Citizen Saving Scheme",Investment,8.20,1000.00,1500000.00,1
+555409,INV109,"Infrastructure Bond",Investment,7.50,5000.00,2000000.00,1
+555410,INV110,"Children Education Bond",Investment,7.20,1000.00,1000000.00,1
+666301,LN101,"Personal Loan Basic",Loan,12.50,0.00,500000.00,1
+666302,LN102,"Personal Loan Plus",Loan,11.80,0.00,750000.00,1
+666303,LN103,"Education Loan",Loan,10.50,0.00,1500000.00,1
+666304,LN104,"Car Loan",Loan,9.75,0.00,1000000.00,1
+666305,LN105,"Home Renovation Loan",Loan,10.20,0.00,800000.00,1
+666306,LN106,"Wedding Loan",Loan,11.00,0.00,600000.00,1
+666307,LN107,"Travel Loan",Loan,12.00,0.00,400000.00,1
+666308,LN108,"Medical Emergency Loan",Loan,10.70,0.00,500000.00,1
+666309,LN109,"Business Loan",Loan,13.00,0.00,2000000.00,1
+666310,LN110,"Two-Wheeler Loan",Loan,9.90,0.00,200000.00,1
+777201,CC101,"Silver Credit Card",Credit,18.00,0.00,200000.00,1
+777202,CC102,"Gold Credit Card",Credit,16.50,0.00,400000.00,1
+777203,CC103,"Platinum Credit Card",Credit,15.00,0.00,700000.00,1
+777204,CC104,"Titanium Credit Card",Credit,14.00,0.00,1000000.00,1
+777205,CC105,"Student Credit Card",Credit,19.50,0.00,100000.00,1
+777206,CC106,"Corporate Credit Card",Credit,12.00,0.00,1500000.00,1
+777207,CC107,"Travel Credit Card",Credit,17.00,0.00,300000.00,1
+777208,CC108,"Cashback Credit Card",Credit,16.80,0.00,350000.00,1
+777209,CC109,"Rewards Credit Card",Credit,17.50,0.00,500000.00,1
+777210,CC110,"Co-Branded Credit Card",Credit,16.00,0.00,250000.00,1
+888111,FD102,"Regular FD 2 Years",FD,5.80,5000.00,2000000.00,1
+888112,FD103,"Regular FD 3 Years",FD,6.00,5000.00,3000000.00,1
+888113,FD104,"Tax Saver FD 5 Years",FD,6.40,10000.00,1500000.00,1
+888114,FD105,"Senior Citizen FD",FD,6.80,5000.00,2500000.00,1
+888115,FD106,"Monthly Income FD",FD,6.20,5000.00,1000000.00,1
+888116,FD107,"Quarterly Income FD",FD,6.25,10000.00,2000000.00,1
+888117,FD108,"Flexi FD",FD,5.90,5000.00,500000.00,1
+888118,FD109,"Reinvestment FD",FD,6.50,10000.00,3000000.00,1
+888119,FD110,"Cumulative FD",FD,6.30,10000.00,4000000.00,1

@@ -1,0 +1,31 @@
+relationship_id,customer_id,related_customer_id,relationship_type
+901,1,2,Spouse
+902,2,1,Spouse
+903,3,4,Parent
+904,4,3,Child
+905,5,6,"Joint Account Holder"
+906,6,5,"Joint Account Holder"
+907,7,8,Nominee
+908,8,7,Parent
+909,9,10,Spouse
+910,10,9,Spouse
+911,11,12,Child
+912,12,11,Parent
+913,13,14,"Joint Account Holder"
+914,14,13,"Joint Account Holder"
+915,15,16,Nominee
+916,16,15,Child
+917,17,18,Spouse
+918,18,17,Spouse
+919,19,20,Parent
+920,20,19,Child
+921,21,22,"Joint Account Holder"
+922,22,21,"Joint Account Holder"
+923,23,24,Nominee
+924,24,23,Parent
+925,25,26,Spouse
+926,26,25,Spouse
+927,27,28,Parent
+928,28,27,Child
+929,29,30,"Joint Account Holder"
+930,30,29,"Joint Account Holder"
